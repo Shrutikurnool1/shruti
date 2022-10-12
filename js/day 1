@@ -1,0 +1,49 @@
+//'chinmay'
+
+let firstname = "chinmay"
+console.log (firstname)
+
+let fullname = "chinmay";
+let fullname2 = 'poorva vyas';
+let fullname3 = `abhisha dani`;
+
+console.log (fullname);
+console.log (fullname2);
+console.log (fullname3);
+
+let nme = "chinmay deshpande"
+let age = "10"
+
+console.log ("my name is" + nme + "my age is" + age);
+console.log (`my name is ${nme} my age is ${age}`);
+
+let x= 10;
+let y= "10";
+let k= true;
+
+console.log (typeof x);
+console.log (typeof y);
+console.log (typeof k);
+
+//number+number ==> number
+//string+number ==> string
+//string+string ==>string
+ 
+let a = 10;
+let b = 20;
+let c ="hello";
+
+
+console.log (a+b);
+console.log (c+a);
+console.log (c+c);
+console.log (b+c);
+console.log (a+b+c);
+console.log (c+a+b);
+
+console.log ("chinmay's book");
+console.log (`"try try but do not cry"`);
+
+
+
+

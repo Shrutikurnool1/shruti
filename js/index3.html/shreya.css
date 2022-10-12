@@ -1,0 +1,22 @@
+pre{
+    background-color: aquamarine;
+}
+pre{
+    color:red;
+}
+p{
+    color: blueviolet;
+}
+p{
+    background-color: yellow;
+}
+p{
+    height: max-content;
+}
+
+p{
+    lighting-color:black;
+}
+p{
+    padding: calc(123);
+}
